@@ -115,9 +115,9 @@ https://github.com/HyeokJung803/ganymede
 
 ### Donghaeng LOTTO
 
-Machine learning-based lottery data analysis service
+Lotte Giants game data analysis and win probability prediction service
 
-`Python` `Streamlit` `Machine Learning`
+`Python` `LightGBM` `Streamlit` `Plotly` `Pandas`
 
 Repository  
 https://github.com/Donghaeng-LOTTO/Donghaeng-LOTTO
