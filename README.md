@@ -130,12 +130,3 @@ https://github.com/Donghaeng-LOTTO/Donghaeng-LOTTO
 
 - https://bportal.nais.or.kr/badge/badgedetail.do?certId=GBvUEsgmLjyj316fuh5V9A==
 - https://bportal.nais.or.kr/badge/badgedetail.do?certId=/XkpJUejje3DxQA+BmSAhA==
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HyeokJung803&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeokJung803&layout=compact)
-```
