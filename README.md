@@ -102,7 +102,6 @@ https://github.com/Donghaeng-LOTTO/Donghaeng-LOTTO
 <tr>
 <td align="center">
 
-<a href="https://bportal.nais.or.kr/badge/badgedetail.do?certId=GBvUEsgmLjyj316fuh5V9A==">
 <img width="498" height="501" alt="정혁님의 이차전지 전극·셀·팩 제조 General(동서대학교) 02" src="https://github.com/user-attachments/assets/1326577c-a3a5-4756-841b-c516e5c18e71" />
 </a>
 
@@ -114,7 +113,6 @@ https://github.com/Donghaeng-LOTTO/Donghaeng-LOTTO
 
 <td align="center">
 
-<a href="https://bportal.nais.or.kr/badge/badgedetail.do?certId=/XkpJUejje3DxQA+BmSAhA==">
 <img width="498" height="501" alt="정혁님의 이차전지 Fundamental(동서대학교) 02" src="https://github.com/user-attachments/assets/df543e09-1cf4-47a8-8f59-795ddd0691e4" />
 </a>
 
