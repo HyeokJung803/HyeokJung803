@@ -29,18 +29,19 @@ Building projects with Spring Boot, React, Spring AI, and Python.
 
 ## Education
 
-- **Dongseo University**
-  - B.S. in Computer Engineering
+### Dongseo University
 
-- **KOREA AI Academy**
-  - RAG-Based Smart Tourism Content Platform Developer Program
-  - 720 Hours
-  - Sep. 2025 – Feb. 2026
+- B.S. in Computer Engineering
 
-- **Busan Venture Business Association**
-  - Generative AI-Based Enterprise Solution Development Project Program (In Progress)
-  - 960 Hours
-  - Apr. 2026 – Oct. 2026
+### KOREA AI Academy
+
+- RAG-Based Smart Tourism Content Platform Developer Program
+- Sep. 2025 – Feb. 2026 (720 Hours)
+
+### Busan Venture Business Association · Busan IT Industry Promotion Agency
+
+- Generative AI-Based Enterprise Solution Development Project Program **(In Progress)**
+- Apr. 2026 – Oct. 2026 (960 Hours)
 
 ---
 
@@ -55,6 +56,7 @@ Building projects with Spring Boot, React, Spring AI, and Python.
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ### Database
 
@@ -65,6 +67,7 @@ Building projects with Spring Boot, React, Spring AI, and Python.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=flat-square)
 
 ### Tools
 
@@ -79,7 +82,9 @@ Building projects with Spring Boot, React, Spring AI, and Python.
 
 ### IntelliPolis
 
-`Spring Boot` `React` `Spring AI` `Gemini` `MySQL`
+AI-powered urban planning decision support service
+
+`Spring Boot` `React` `Spring AI` `Gemini`
 
 Repository  
 https://github.com/IntelliPolis/IntelliPolis-AI-Urban-Planner
@@ -88,7 +93,9 @@ https://github.com/IntelliPolis/IntelliPolis-AI-Urban-Planner
 
 ### Trip Planner
 
-`Spring Boot` `MyBatis` `MySQL` `OAuth2`
+Travel recommendation and itinerary planning platform
+
+`Spring Boot` `React` `MyBatis` `MySQL` `OAuth2`
 
 Repository  
 https://github.com/KORIT-YeoWoo/trip_planner
@@ -96,6 +103,8 @@ https://github.com/KORIT-YeoWoo/trip_planner
 ---
 
 ### GANYMEDE
+
+Luxury fashion shopping mall project
 
 `Spring Boot` `React` `MySQL`
 
@@ -106,6 +115,8 @@ https://github.com/HyeokJung803/ganymede
 
 ### Donghaeng LOTTO
 
+Machine learning-based lottery data analysis service
+
 `Python` `Streamlit` `Machine Learning`
 
 Repository  
@@ -115,10 +126,12 @@ https://github.com/Donghaeng-LOTTO/Donghaeng-LOTTO
 
 ## Certifications
 
-<table>
+<div align="center">
+
+<table align="center">
 <tr>
 
-<td align="center">
+<td align="center" width="320">
 
 <a href="https://bportal.nais.or.kr/badge/badgedetail.do?certId=GBvUEsgmLjyj316fuh5V9A==">
 <img src="https://github.com/user-attachments/assets/1326577c-a3a5-4756-841b-c516e5c18e71" width="180" alt="Secondary Battery General">
@@ -128,13 +141,9 @@ https://github.com/Donghaeng-LOTTO/Donghaeng-LOTTO
 
 <b>Secondary Battery Electrode · Cell · Pack Manufacturing (General)</b>
 
-<br>
-
-<sub>ABEEK Open Badge</sub>
-
 </td>
 
-<td align="center">
+<td align="center" width="320">
 
 <a href="https://bportal.nais.or.kr/badge/badgedetail.do?certId=/XkpJUejje3DxQA+BmSAhA==">
 <img src="https://github.com/user-attachments/assets/df543e09-1cf4-47a8-8f59-795ddd0691e4" width="180" alt="Secondary Battery Fundamental">
@@ -144,14 +153,12 @@ https://github.com/Donghaeng-LOTTO/Donghaeng-LOTTO
 
 <b>Secondary Battery Fundamental</b>
 
-<br>
-
-<sub>ABEEK Open Badge</sub>
-
 </td>
 
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -159,6 +166,7 @@ https://github.com/Donghaeng-LOTTO/Donghaeng-LOTTO
 
 - Excellence Award, Idea Makers Startup Camp
 - Completed the Future Tomorrow Work Experience Program
+- Earned ABEEK Open Badges
 
 ---
 
