@@ -137,7 +137,6 @@ https://github.com/Donghaeng-LOTTO/Donghaeng-LOTTO
 
 <td align="center" width="320">
 
-<a href="https://bportal.nais.or.kr/badge/badgedetail.do?certId=GBvUEsgmLjyj316fuh5V9A==">
 <img src="https://github.com/user-attachments/assets/1326577c-a3a5-4756-841b-c516e5c18e71" width="180" alt="General">
 </a>
 
@@ -149,7 +148,6 @@ https://github.com/Donghaeng-LOTTO/Donghaeng-LOTTO
 
 <td align="center" width="320">
 
-<a href="https://bportal.nais.or.kr/badge/badgedetail.do?certId=/XkpJUejje3DxQA+BmSAhA==">
 <img src="https://github.com/user-attachments/assets/df543e09-1cf4-47a8-8f59-795ddd0691e4" width="180" alt="Fundamental">
 </a>
 
