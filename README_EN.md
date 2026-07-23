@@ -31,7 +31,9 @@ Building projects with Spring Boot, React, Spring AI, and Python.
 
 ### Dongseo University
 
-- B.S. in Computer Engineering
+- Bachelor of Science in Computer Engineering
+- Mar. 2020 – Feb. 2026
+- Graduated
 
 ### KOREA AI Academy
 
