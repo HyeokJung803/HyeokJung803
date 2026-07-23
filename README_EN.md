@@ -2,16 +2,16 @@
 
 <p align="center">
 Backend Developer passionate about AI-powered applications.<br>
-Experienced in building projects with Spring Boot, React, Spring AI, and Python.
+Building projects with Spring Boot, React, Spring AI, and Python.
 </p>
 
 <p align="center">
   <a href="./README.md">
-    <img src="https://img.shields.io/badge/Korean-555555?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Korean-555555?style=flat-square">
   </a>
   &nbsp;
   <a href="./README_EN.md">
-    <img src="https://img.shields.io/badge/English-007ACC?style=for-the-badge">
+    <img src="https://img.shields.io/badge/English-007ACC?style=flat-square">
   </a>
 </p>
 
@@ -19,7 +19,7 @@ Experienced in building projects with Spring Boot, React, Spring AI, and Python.
 
 ## About Me
 
-- Computer Engineering, Dongseo University
+- B.S. in Computer Engineering, Dongseo University
 - Backend Developer
 - Experience developing projects with Spring Boot, Spring AI, and React
 - Experience designing REST APIs and relational databases
@@ -35,7 +35,7 @@ Experienced in building projects with Spring Boot, React, Spring AI, and Python.
 - **KOREA AI Academy**
   - RAG-Based Smart Tourism Content Platform Developer Program
   - Industry Structure Transformation Training Program
-  - **720 Hours**
+  - 720 Hours
   - Sep. 2025 – Feb. 2026
 
 ---
@@ -56,7 +56,7 @@ Experienced in building projects with Spring Boot, React, Spring AI, and Python.
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### AI
+### AI / Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -102,7 +102,7 @@ https://github.com/HyeokJung803/ganymede
 
 ### Donghaeng LOTTO
 
-`Spring Boot` `React`
+`Python` `Streamlit` `Machine Learning`
 
 Repository  
 https://github.com/Donghaeng-LOTTO/Donghaeng-LOTTO
@@ -116,21 +116,25 @@ https://github.com/Donghaeng-LOTTO/Donghaeng-LOTTO
 
 <td align="center">
 
+<a href="https://bportal.nais.or.kr/badge/badgedetail.do?certId=GBvUEsgmLjyj316fuh5V9A==">
 <img src="https://github.com/user-attachments/assets/1326577c-a3a5-4756-841b-c516e5c18e71" width="180" alt="Secondary Battery General">
+</a>
 
 <br>
 
-<b>Secondary Battery Electrode·Cell·Pack Manufacturing (General)</b>
+<b>Secondary Battery Electrode · Cell · Pack Manufacturing (General)</b>
 
 <br>
 
-<sub>Accreditation Board for Engineering Education of Korea (ABEEK)</sub>
+<sub>ABEEK Open Badge</sub>
 
 </td>
 
 <td align="center">
 
+<a href="https://bportal.nais.or.kr/badge/badgedetail.do?certId=/XkpJUejje3DxQA+BmSAhA==">
 <img src="https://github.com/user-attachments/assets/df543e09-1cf4-47a8-8f59-795ddd0691e4" width="180" alt="Secondary Battery Fundamental">
+</a>
 
 <br>
 
@@ -138,7 +142,7 @@ https://github.com/Donghaeng-LOTTO/Donghaeng-LOTTO
 
 <br>
 
-<sub>Accreditation Board for Engineering Education of Korea (ABEEK)</sub>
+<sub>ABEEK Open Badge</sub>
 
 </td>
 
@@ -150,8 +154,7 @@ https://github.com/Donghaeng-LOTTO/Donghaeng-LOTTO
 ## Activities
 
 - Excellence Award, Idea Makers Startup Camp
-- Future Tomorrow Work Experience Program
-- ABEEK Open Badge Recipient
+- Completed the Future Tomorrow Work Experience Program
 
 ---
 
