@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Hyeok 👋
 
-<!--
-**HyeokJung803/HyeokJung803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer interested in AI-powered web services.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+- Java
+- Spring Boot
+- Spring AI
+- REST API
+
+### Frontend
+- React
+- TypeScript
+
+### Database
+- MySQL
+
+### AI
+- Python
+- PyTorch
+- Gemini API
+
+## 🚀 Projects
+
+### IntelliPolis
+AI-powered Urban Planning Decision Support System
+- Spring Boot
+- React
+- Spring AI
+- Gemini
+
+### GANYMEDE
+Luxury Fashion Shopping Mall
+- Spring Boot
+- React
+- MySQL
+
+## 📫 Contact
+
+- Email
+- Blog
