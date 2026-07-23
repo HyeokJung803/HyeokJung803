@@ -34,9 +34,13 @@ Building projects with Spring Boot, React, Spring AI, and Python.
 
 - **KOREA AI Academy**
   - RAG-Based Smart Tourism Content Platform Developer Program
-  - Industry Structure Transformation Training Program
   - 720 Hours
   - Sep. 2025 – Feb. 2026
+
+- **Busan Venture Business Association**
+  - Generative AI-Based Enterprise Solution Development Project Program (In Progress)
+  - 960 Hours
+  - Apr. 2026 – Oct. 2026
 
 ---
 
