@@ -99,7 +99,7 @@ https://github.com/HyeokJung803/ganymede
 
 ### Donghaeng LOTTO
 
-`Spring Boot` `React`
+`Python` `Streamlit` `Machine Learning`
 
 Repository  
 https://github.com/Donghaeng-LOTTO/Donghaeng-LOTTO
