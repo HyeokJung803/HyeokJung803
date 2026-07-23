@@ -174,3 +174,6 @@ https://github.com/Donghaeng-LOTTO/Donghaeng-LOTTO
 
 **GitHub**  
 https://github.com/HyeokJung803
+
+**Email**  
+jh010803@naver.com
