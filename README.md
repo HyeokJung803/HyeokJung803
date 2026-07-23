@@ -1,3 +1,4 @@
+<img width="498" height="501" alt="정혁님의 이차전지 전극·셀·팩 제조 General(동서대학교) 02" src="https://github.com/user-attachments/assets/b3a9dc16-b801-4bb5-a5d7-dcea3ec1388e" />
 <h1 align="center">안녕하세요, 정혁입니다.</h1>
 
 <p align="center">
@@ -103,7 +104,7 @@ https://github.com/Donghaeng-LOTTO/Donghaeng-LOTTO
 <td align="center">
 
 <a href="https://bportal.nais.or.kr/badge/badgedetail.do?certId=GBvUEsgmLjyj316fuh5V9A==">
-<img src="./images/battery-general.png" width="180">
+<img width="498" height="501" alt="정혁님의 이차전지 전극·셀·팩 제조 General(동서대학교) 02" src="https://github.com/user-attachments/assets/1326577c-a3a5-4756-841b-c516e5c18e71" />
 </a>
 
 <br>
@@ -115,7 +116,7 @@ https://github.com/Donghaeng-LOTTO/Donghaeng-LOTTO
 <td align="center">
 
 <a href="https://bportal.nais.or.kr/badge/badgedetail.do?certId=/XkpJUejje3DxQA+BmSAhA==">
-<img src="./images/battery-fundamental.png" width="180">
+<img width="498" height="501" alt="정혁님의 이차전지 Fundamental(동서대학교) 02" src="https://github.com/user-attachments/assets/df543e09-1cf4-47a8-8f59-795ddd0691e4" />
 </a>
 
 <br>
