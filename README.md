@@ -116,6 +116,8 @@ https://github.com/HyeokJung803/ganymede
 
 ---
 
+### Donghaeng LOTTO
+
 롯데 자이언츠 경기 데이터 기반 승리확률 예측 및 What-If 분석 서비스
 
 `Python` `LightGBM` `Streamlit` `Plotly` `Pandas`
