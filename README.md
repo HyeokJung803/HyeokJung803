@@ -83,7 +83,7 @@ Spring Boot를 중심으로 React, Spring AI, Python을 활용한 프로젝트�
 
 ### IntelliPolis
 
-제미나이 API | spring AI  
+제미나이 API  |  spring AI  
 도시계획 AI 의사결정 지원 서비스
 
 **Tech**  
@@ -96,7 +96,7 @@ https://github.com/IntelliPolis/IntelliPolis-AI-Urban-Planner
 
 ### Trip Planner
 
-mybatis | JWT | OAuth2
+mybatis || JWT || OAuth2
 관광 코스 추천 및 여행 플랫폼
 
 **Tech**  
