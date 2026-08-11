@@ -96,7 +96,7 @@ https://github.com/IntelliPolis/IntelliPolis-AI-Urban-Planner
 
 ### Trip Planner
 
-mybatis,JWT
+mybatis | JWT | OAuth2
 관광 코스 추천 및 여행 플랫폼
 
 **Tech**  
@@ -109,8 +109,8 @@ https://github.com/KORIT-YeoWoo/trip_planner
 
 ### GANYMEDE
 
-토큰압축을 위해 Ponytail 오픈소스 활용
-바이브코딩 럭셔리 패션 쇼핑몰 프로젝트
+토큰압축을 위한 Ponytail 오픈소스 활용 | 바이브코딩 
+럭셔리 패션 쇼핑몰 프로젝트
 
 **Tech**  
 `Spring Boot` `React` `MySQL`
