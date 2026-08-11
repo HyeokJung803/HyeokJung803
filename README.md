@@ -83,6 +83,7 @@ Spring Boot를 중심으로 React, Spring AI, Python을 활용한 프로젝트�
 
 ### IntelliPolis
 
+제미나이 API | spring AI  
 도시계획 AI 의사결정 지원 서비스
 
 **Tech**  
@@ -95,6 +96,7 @@ https://github.com/IntelliPolis/IntelliPolis-AI-Urban-Planner
 
 ### Trip Planner
 
+mybatis,JWT
 관광 코스 추천 및 여행 플랫폼
 
 **Tech**  
@@ -107,7 +109,8 @@ https://github.com/KORIT-YeoWoo/trip_planner
 
 ### GANYMEDE
 
-럭셔리 패션 쇼핑몰 프로젝트
+토큰압축을 위해 Ponytail 오픈소스 활용
+바이브코딩 럭셔리 패션 쇼핑몰 프로젝트
 
 **Tech**  
 `Spring Boot` `React` `MySQL`
@@ -119,6 +122,7 @@ https://github.com/HyeokJung803/ganymede
 
 ### Donghaeng LOTTO
 
+머신러닝사용 | streamlit 구현 
 롯데 자이언츠 경기 데이터 기반 승리확률 예측 및 What-If 분석 서비스
 
 `Python` `LightGBM` `Streamlit` `Plotly` `Pandas`
