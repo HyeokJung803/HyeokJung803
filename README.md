@@ -137,6 +137,18 @@ https://github.com/Donghaeng-LOTTO/Donghaeng-LOTTO
 
 ---
 
+### On This Day Music
+
+오늘과 같은 날짜에 최초 발매된 음악을 장르별로 보여주는 자동화 웹 서비스
+
+**Tech**  
+`JavaScript` `Node.js` `Wikidata` `MusicBrainz API` `GitHub Actions`
+
+**Repository**  
+https://github.com/HyeokJung803/on-this-day-music
+
+---
+
 ## Certifications
 
 <div align="center">
