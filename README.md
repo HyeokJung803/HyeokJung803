@@ -154,7 +154,7 @@ https://github.com/HyeokJung803/on-this-day-music
 사용자 인터랙션과 시각적 연출을 중심으로 제작한 반응형 웹 프로젝트
 
 **Tech**  
-`React` `TypeScript` `Vite` `Tailwind CSS`
+`React` `TypeScript` `Vite` `Tailwind CSS` `React Three Fiber (R3F)`
 
 **Repository**  
 https://github.com/HyeokJung803/nova-labs-interactive
