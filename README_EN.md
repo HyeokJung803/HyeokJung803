@@ -156,6 +156,18 @@ https://github.com/HyeokJung803/nova-labs-interactive
 
 ---
 
+### PELAGIA Deep-Sea Expeditions
+
+A responsive web project focused on premium submersible travel and immersive interactive experiences
+
+**Tech**\
+`React` `TypeScript` `Vite` `Tailwind CSS` `shadcn/ui` `Motion` `Lucide React`
+
+**Repository**\
+[https://github.com/HyeokJung803/PELAGIA](https://github.com/HyeokJung803/PELAGIA)
+
+---
+
 ## Certifications
 
 <div align="center">
