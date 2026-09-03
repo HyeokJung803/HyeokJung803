@@ -161,6 +161,18 @@ https://github.com/HyeokJung803/nova-labs-interactive
 
 ---
 
+### PELAGIA 심해 탐험
+
+프리미엄 잠수정과 인터랙티브 경험을 중심으로 제작한 반응형 웹 프로젝트
+
+**Tech**\
+`React` `TypeScript` `Vite` `Tailwind CSS` `shadcn/ui` `Motion` `Lucide React`
+
+**Repository**\
+[https://github.com/HyeokJung803/PELAGIA](https://github.com/HyeokJung803/PELAGIA)
+
+---
+
 ## Certifications
 
 <div align="center">
