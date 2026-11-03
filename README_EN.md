@@ -41,7 +41,7 @@ I build projects using Spring Boot, React, Spring AI, and Python.
 
 ### Busan Venture Business Association · Busan IT Industry Promotion Agency
 
-* Hands-on Generative AI Enterprise Solution Development Program **(In Progress)**
+* Hands-on Generative AI Enterprise Solution Development Program
 * Apr. 2026 – Oct. 2026 (960 hours)
 
 ---
