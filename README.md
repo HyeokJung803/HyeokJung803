@@ -38,11 +38,13 @@ Spring Boot를 중심으로 React, Spring AI, Python을 활용한 프로젝트�
 
 * 검색증강생성(RAG) AI 기반 문화관광 스마트콘텐츠 플랫폼 개발자 양성과정
 * 2025.09 ~ 2026.02 (720시간)
+* 기초프로그래밍부터 시작하여 Python, Java, JavaScript의 문법과 구조를 익히고, React, Spring Boot, FastAPI 등 실무에서 활용도가 높은 기술 스택을 중심으로 웹 및 AI 기반 관광 콘텐츠 서비스 구현 능력을 강화
 
 ### 부산벤처기업협회 · 부산정보산업진흥원
 
 * 생성형 AI 기반 기업솔루션 개발 실무 프로젝트 과정
 * 2026.04 ~ 2026.10 (960시간)
+* Python·SQL·데이터 분석 기초부터 LLM(OpenAI, Gemini) API 연동, RAG·sLLM 기반 서비스 구현, Spring AI 기반 백엔드 개발
 
 ---
 
